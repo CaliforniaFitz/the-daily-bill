@@ -1,7 +1,7 @@
 # Bill template
 
 | Remarks | Project | Amount |
-| ---- | :--- |:---|
+| --- | --- |---|
 | 饮食服务 | Catering services |  |
 | 饮料（不含酒精） | Beverages (non-alcoholic) |  |
 | 糖果糕点类 | Confectionery |  |
